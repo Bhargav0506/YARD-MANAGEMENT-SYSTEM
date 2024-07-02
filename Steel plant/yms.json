@@ -1,0 +1,145 @@
+[
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704949"
+    },
+    "emp id": "EMP123",
+    "emp name": "Arjun",
+    "item": "TMT BARS",
+    "latitude": 17.4289,
+    "longitude": 83.5678,
+    "qr_code_result": "BIN 1",
+    "quantity": "1000",
+    "timestamp": "2024-03-04 18:10:44"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704950"
+    },
+    "emp id": "EMP124",
+    "emp name": "Rohan",
+    "item": "STEEL COILS",
+    "latitude": 17.4291,
+    "longitude": 83.5679,
+    "qr_code_result": "BIN 2",
+    "quantity": "1500",
+    "timestamp": "2024-03-05 10:15:22"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704951"
+    },
+    "emp id": "EMP125",
+    "emp name": "Vikram",
+    "item": "ANGLE BARS",
+    "latitude": 17.4293,
+    "longitude": 83.568,
+    "qr_code_result": "BIN 3",
+    "quantity": "1200",
+    "timestamp": "2024-03-06 14:25:33"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704952"
+    },
+    "emp id": "EMP126",
+    "emp name": "Sameer",
+    "item": "CHANNELS",
+    "latitude": 17.4295,
+    "longitude": 83.5681,
+    "qr_code_result": "BIN 4",
+    "quantity": "1800",
+    "timestamp": "2024-03-07 09:50:12"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704953"
+    },
+    "emp id": "EMP127",
+    "emp name": "Manoj",
+    "item": "FLAT BARS",
+    "latitude": 17.4297,
+    "longitude": 83.5682,
+    "qr_code_result": "BIN 5",
+    "quantity": "1300",
+    "timestamp": "2024-03-08 12:30:44"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704954"
+    },
+    "emp id": "EMP128",
+    "emp name": "Kunal",
+    "item": "WIRE RODS",
+    "latitude": 17.4299,
+    "longitude": 83.5683,
+    "qr_code_result": "BIN 6",
+    "quantity": "1100",
+    "timestamp": "2024-03-09 15:40:55"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704955"
+    },
+    "emp id": "EMP129",
+    "emp name": "Rahul",
+    "item": "REBAR",
+    "latitude": 17.4301,
+    "longitude": 83.5684,
+    "qr_code_result": "BIN 7",
+    "quantity": "1700",
+    "timestamp": "2024-03-10 08:20:33"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704956"
+    },
+    "emp id": "EMP130",
+    "emp name": "Ajay",
+    "item": "H-BEAMS",
+    "latitude": 17.4303,
+    "longitude": 83.5685,
+    "qr_code_result": "BIN 8",
+    "quantity": "1400",
+    "timestamp": "2024-03-11 16:35:44"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704957"
+    },
+    "emp id": "EMP131",
+    "emp name": "Suresh",
+    "item": "I-BEAMS",
+    "latitude": 17.4305,
+    "longitude": 83.5686,
+    "qr_code_result": "BIN 9",
+    "quantity": "1600",
+    "timestamp": "2024-03-12 11:10:22"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704958"
+    },
+    "emp id": "EMP132",
+    "emp name": "Vishal",
+    "item": "STEEL SHEETS",
+    "latitude": 17.4307,
+    "longitude": 83.5687,
+    "qr_code_result": "BIN 10",
+    "quantity": "1900",
+    "timestamp": "2024-03-13 13:55:33"
+  },
+  {
+    "_id": {
+      "$oid": "6644352e5b3eb0e8b8704959"
+    },
+    "emp id": "EMP133",
+    "emp name": "Ankit",
+    "item": "TMT BARS",
+    "latitude": 17.4309,
+    "longitude": 83.5688,
+    "qr_code_result": "BIN 1",
+    "quantity": "2000",
+    "timestamp": "2024-03-14 17:45:44"
+  }
+]

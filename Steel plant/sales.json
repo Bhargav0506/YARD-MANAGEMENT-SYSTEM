@@ -1,0 +1,122 @@
+[
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72401" },
+    "bin": "BIN 1",
+    "customer_name": "Global Metal Supplies",
+    "item": "TITANIUM BARS",
+    "quantity": 10000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72402" },
+    "bin": "BIN 2",
+    "customer_name": "Industrial Steel Corp",
+    "item": "STEEL SHEETS",
+    "quantity": 15000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72403" },
+    "bin": "BIN 1",
+    "customer_name": "Advanced Metals Ltd",
+    "item": "BRONZE CASTINGS",
+    "quantity": 12000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72404" },
+    "bin": "BIN 2",
+    "customer_name": "Precision Steelworks",
+    "item": "STEEL RODS",
+    "quantity": 11000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72405" },
+    "bin": "BIN 4",
+    "customer_name": "Copper Innovations",
+    "item": "COPPER SHEETS",
+    "quantity": 13000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72406" },
+    "bin": "BIN 1",
+    "customer_name": "Aluminum Suppliers Inc",
+    "item": "ALUMINUM RODS",
+    "quantity": 7000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72407" },
+    "bin": "BIN 2",
+    "customer_name": "PVC Products Ltd",
+    "item": "PVC FITTINGS",
+    "quantity": 14000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72408" },
+    "bin": "BIN 4",
+    "customer_name": "Ironworks Global",
+    "item": "IRON RODS",
+    "quantity": 10000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d72409" },
+    "bin": "BIN 1",
+    "customer_name": "Nickel Supplies Co",
+    "item": "NICKEL RODS",
+    "quantity": 11000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d7240a" },
+    "bin": "BIN 4",
+    "customer_name": "Titanium Distributors",
+    "item": "TITANIUM SHEETS",
+    "quantity": 12000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d7240b" },
+    "bin": "BIN 1",
+    "customer_name": "Plastic Pipes & Co",
+    "item": "PLASTIC PIPES",
+    "quantity": 12000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d7240c" },
+    "bin": "BIN 2",
+    "customer_name": "Copper World Ltd",
+    "item": "COPPER RODS",
+    "quantity": 9000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d7240d" },
+    "bin": "BIN 1",
+    "customer_name": "Aluminum Innovations",
+    "item": "ALUMINUM CASTINGS",
+    "quantity": 11000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d7240e" },
+    "bin": "BIN 4",
+    "customer_name": "PVC Solutions",
+    "item": "PVC RODS",
+    "quantity": 10000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  },
+  {
+    "_id": { "$oid": "6638f44c8b987acc25d7240f" },
+    "bin": "BIN 1",
+    "customer_name": "Steel Pipes Ltd",
+    "item": "STEEL PIPES",
+    "quantity": 13000,
+    "timestamp": { "$date": { "$numberLong": "1708009200000" } }
+  }
+]
